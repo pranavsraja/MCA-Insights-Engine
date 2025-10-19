@@ -1,7 +1,5 @@
 # MCA-Insights-Engine
 
-# MCA Insights Engine
-
 ## Project Overview
 The **MCA Insights Engine** is an end-to-end data pipeline and interactive dashboard designed to process, analyze, and visualize corporate master data from the **Ministry of Corporate Affairs (MCA)**.
 
